@@ -45,7 +45,7 @@ Currently looking for junior frontend developer opportunities to apply and expan
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sufihasan&show_icons=true&theme=default" alt="Hasan's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=sufihasan" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sufihasan" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufihasan&layout=compact" alt="Top Languages" />
 </p>
