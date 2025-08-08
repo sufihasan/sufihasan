@@ -38,6 +38,10 @@ Currently looking for junior frontend developer opportunities to apply and expan
 ## 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhasansarder)
 
+### 📞 Contact
+
+Feel free to reach out on [WhatsApp](https://wa.me/8801703532130)
+
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
