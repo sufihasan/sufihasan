@@ -36,7 +36,7 @@ Currently looking for junior frontend developer opportunities to apply and expan
 
 <!-- Social Links -->
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhasansarder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan6nh/)
 
 ### 📞 Contact
 
