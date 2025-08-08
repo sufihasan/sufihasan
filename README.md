@@ -2,6 +2,10 @@
 #### Web Developer
 ![Web Developer](https://i.ibb.co.com/MHLMcBb/link-Inbannerhasan.png)
 
+<!-- Name & Designation -->
+<h1 align="center">Hi, I'm Md. Hasan Sarder 👋</h1>
+<h3 align="center">Aspiring Frontend Developer | React Enthusiast</h3>
+
 <!-- About Me -->
 ## 🧑‍💻 About Me
 I'm a passionate Frontend Developer focused on building clean and responsive UIs using React and modern web tools.  
