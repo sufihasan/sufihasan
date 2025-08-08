@@ -39,6 +39,7 @@ Currently looking for junior frontend developer opportunities to apply and expan
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhasansarder)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sufihasan)
 
+<!--
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
@@ -50,7 +51,7 @@ Currently looking for junior frontend developer opportunities to apply and expan
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufihasan&layout=compact" alt="Top Languages" />
 </p>
 
-
+-->
 
 
 
