@@ -46,19 +46,13 @@ Currently looking for junior frontend developer opportunities to apply and expan
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sufihasan&show_icons=true&theme=default" alt="Hasan's GitHub stats" />
   <br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?username=sufihasan" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sufihasan" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufihasan&layout=compact" alt="Top Languages" />
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-summary-for-firebase.vercel.app/api?username=sufihasan" alt="Hasan's GitHub stats" />
-  <br/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sufihasan&theme=dark" alt="GitHub Streak" /></a>
-  <br/>
-  <img src="https://github-profile-summary-for-firebase.vercel.app/api/top-langs/?username=sufihasan&layout=compact" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sufihasan)](https://git.io/streak-stats)
 
 
 
