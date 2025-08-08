@@ -37,7 +37,6 @@ Currently looking for junior frontend developer opportunities to apply and expan
 <!-- Social Links -->
 ## 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhasansarder)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sufihasan)
 
 
 <!-- GitHub Stats -->
@@ -52,7 +51,6 @@ Currently looking for junior frontend developer opportunities to apply and expan
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sufihasan)](https://git.io/streak-stats)
 
 
 
