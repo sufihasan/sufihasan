@@ -51,6 +51,9 @@ Currently looking for junior frontend developer opportunities to apply and expan
 </p>
 -->
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sufihasan)](https://git.io/streak-stats)
+
 ## 📈 GitHub Stats
 
 ![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufihasan&show_icons=true&theme=default)
