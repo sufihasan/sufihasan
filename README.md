@@ -52,11 +52,11 @@ Currently looking for junior frontend developer opportunities to apply and expan
 
 <p align="center">
   
-  ![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufihasan&show_icons=true&theme=default)
+  
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=sufihasan)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufihasan&layout=compact)
+
 
 </p>
 
