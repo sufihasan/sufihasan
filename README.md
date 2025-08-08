@@ -12,9 +12,12 @@ I enjoy turning ideas into real web apps and collaborating with others to grow t
 Currently looking for junior frontend developer opportunities to apply and expand my skills.
 
 
-Skills:  REACT | JS | HTML | CSS | Tailwind CSS
-
-- 🔭 I’m currently working on this page. 
+<!-- Current Activities -->
+## 🚀 Current Activities
+- ⚡ Exploring Next.js and performance optimization techniques.
+- 🌐 Building a feature-rich tourism website.
+- 💼 Preparing for junior frontend developer roles.
+- 📚 Improving skills in React, Tailwind, and modern JavaScript.
 
 
 
