@@ -52,6 +52,15 @@ Currently looking for junior frontend developer opportunities to apply and expan
 </p>
 
 
+<p align="center">
+  <img src="https://github-profile-summary-for-firebase.vercel.app/api?username=sufihasan" alt="Hasan's GitHub stats" />
+  <br/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sufihasan&theme=dark" alt="GitHub Streak" /></a>
+  <br/>
+  <img src="https://github-profile-summary-for-firebase.vercel.app/api/top-langs/?username=sufihasan&layout=compact" alt="Top Languages" />
+</p>
+
+
 
 
 
