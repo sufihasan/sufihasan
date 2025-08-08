@@ -59,6 +59,8 @@ Currently looking for junior frontend developer opportunities to apply and expan
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufihasan&layout=compact)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sufihasan" alt="GitHub Streak" /></a>
+
 
 
 
