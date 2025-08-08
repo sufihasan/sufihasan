@@ -60,7 +60,7 @@ Currently looking for junior frontend developer opportunities to apply and expan
 
 </p>
 
-
+![Web Developer](https://streak-stats.demolab.com/?user=sufihasan)
 
 
 
