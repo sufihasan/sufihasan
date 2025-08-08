@@ -2,7 +2,12 @@
 #### Web Developer
 ![Web Developer](https://i.ibb.co.com/MHLMcBb/link-Inbannerhasan.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<!-- About Me -->
+## 🧑‍💻 About Me
+I'm a passionate Frontend Developer focused on building clean and responsive UIs using React and modern web tools.  
+I enjoy turning ideas into real web apps and collaborating with others to grow together.  
+Currently looking for junior frontend developer opportunities to apply and expand my skills.
+
 
 Skills:  REACT | JS | HTML | CSS | Tailwind CSS
 
