@@ -3,7 +3,7 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi, I'm Md. Hasan Sarder 👋</h1>
-<h3 align="center">Aspiring Frontend Developer | React Enthusiast</h3>
+<h3 align="center"> Frontend Developer | React </h3>
 
 <!-- About Me -->
 ## 🧑‍💻 About Me
